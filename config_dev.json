@@ -1,0 +1,26 @@
+{
+    "db_backtesting": {
+        "host": "localhost",
+        "user": "root",
+        "password": "pegasus",
+        "database": "index_data"
+    },
+    "db_upload": {
+        "host": "localhost",
+        "user": "root",
+        "password": "pegasus",
+        "database": "index_data"
+    },
+    "db_optimization": {
+        "host": "localhost",
+        "user": "root",
+        "password": "pegasus",
+        "database": "sagar_strategy"
+    },
+    "db_strategy": {
+        "host": "localhost",
+        "user": "root",
+        "password": "pegasus",
+        "database": "sagar_strategy"
+    }
+}
