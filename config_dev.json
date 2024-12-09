@@ -67,8 +67,11 @@
         "interactive_key": "8e39993d7a17660f960145",
         "interactive_secret": "Hkrp044@eR",
         "port": "https://ttblaze.iifl.com"
-    }
+    },
 
+    "strike_range": {
+       "range" : 8
+    }
     
   }
   
