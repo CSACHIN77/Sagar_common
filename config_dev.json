@@ -17,7 +17,7 @@
         "password": "pegasus",
         "database": "sagar_strategy"
     },
-	"db_dataharvesting": {
+	"db_sagar_dataharvesting": {
         "host": "localhost",
         "user": "root",
         "password": "pegasus",
