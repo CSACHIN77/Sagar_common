@@ -1,23 +1,17 @@
 {
-    "db_backtesting": {
+    "db_index_data": {
         "host": "localhost",
         "user": "root",
         "password": "pegasus",
         "database": "index_data"
     },
-    "db_upload": {
+    "db_sagar_strategy": {
         "host": "localhost",
         "user": "root",
-        "password": "pegasus",
-        "database": "index_data"
-    },
-    "db_optimization": {
-        "host": "localhost",
-        "user": "root",
-        "password": "pegasus",
+        "password": "root",
         "database": "sagar_strategy"
     },
-	"db_sagar_dataharvesting": {
+	  "db_sagar_dataharvesting": {
         "host": "localhost",
         "user": "root",
         "password": "pegasus",
@@ -60,12 +54,7 @@
       "password": "pegasus",
       "database": "sagar_strategy"
     },
-    "dbCredentials": {
-      "host": "localhost",
-      "user": "root",
-      "password": "pegasus",
-      "database": "sagar_strategy"
-    },
+  
     
     "live_creds": {
         "market_key": "d06e78e147a17d6bd8f856",
