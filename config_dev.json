@@ -17,6 +17,12 @@
         "password": "pegasus",
         "database": "sagar_strategy"
     },
+	"db_dataharvesting": {
+        "host": "localhost",
+        "user": "root",
+        "password": "pegasus",
+        "database": "sagar_dataharvesting"
+    },
     "lotSize": {
       "BANKNIFTY_LOT_SIZE": 15,
       "NIFTY_LOT_SIZE": 25,
