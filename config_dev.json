@@ -72,6 +72,11 @@
 
     "strike_range": {
        "range" : 8
+    },
+
+    "log_settings":{
+      "print_enabled":true, 
+      "strategy_wise_log_files": true
     }
     
   }
